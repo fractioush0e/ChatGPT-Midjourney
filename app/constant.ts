@@ -268,6 +268,18 @@ const googleModels = [
   "gemma-2-2b-it",
   "gemma-2-9b-it",
   "gemma-2-27b-it",
+  "claude-instant-1.2",
+  "claude-2.0",
+  "claude-2.1",
+  "claude-3-sonnet-20240229",
+  "claude-3-opus-20240229",
+  "claude-3-haiku-20240307",
+  "claude-3-5-sonnet-20240620",
+  "o1-mini-2024-09-12",
+  "o1-mini o1-preview",
+  "o1-preview-2024-09-12",
+  "deepseek-chat",
+  "deepseek-coder",
 ];
 
 const anthropicModels = [

@@ -416,7 +416,7 @@ export class ChatGPTApi implements LLMApi {
       available: true,
       provider: {
         id: "openai",
-        providerName: "Server3",
+        providerName: "Server2",
         providerType: "openai",
       },
     }));
