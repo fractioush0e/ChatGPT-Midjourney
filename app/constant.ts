@@ -98,9 +98,9 @@ export const REQUEST_TIMEOUT_MS = 60000;
 export const EXPORT_MESSAGE_CLASS_NAME = "export-markdown";
 
 export enum ServiceProvider {
-  OpenAI = "Online",
+  OpenAI = "Server2",
   Azure = "Azure",
-  Google = "Online",
+  Google = "Server1",
   Anthropic = "Anthropic",
   Baidu = "Baidu",
   ByteDance = "ByteDance",
@@ -319,7 +319,7 @@ export const DEFAULT_MODELS = [
     available: true,
     provider: {
       id: "openai",
-      providerName: "Online",
+      providerName: "Server2",
       providerType: "openai",
     },
   })),
@@ -337,7 +337,7 @@ export const DEFAULT_MODELS = [
     available: true,
     provider: {
       id: "google",
-      providerName: "Online",
+      providerName: "Server1",
       providerType: "google",
     },
   })),
