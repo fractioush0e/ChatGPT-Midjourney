@@ -98,7 +98,7 @@ export const REQUEST_TIMEOUT_MS = 60000;
 export const EXPORT_MESSAGE_CLASS_NAME = "export-markdown";
 
 export enum ServiceProvider {
-  Server3 = "Server2",
+  OpenAI = "Server2",
   Azure = "Azure",
   Google = "Server1",
   Anthropic = "Anthropic",
