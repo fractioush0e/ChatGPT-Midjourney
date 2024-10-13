@@ -319,7 +319,7 @@ export const DEFAULT_MODELS = [
     available: true,
     provider: {
       id: "openai",
-      providerName: "OpenAI",
+      providerName: "Online",
       providerType: "openai",
     },
   })),
@@ -337,7 +337,7 @@ export const DEFAULT_MODELS = [
     available: true,
     provider: {
       id: "google",
-      providerName: "Google",
+      providerName: "Online",
       providerType: "google",
     },
   })),
