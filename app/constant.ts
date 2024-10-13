@@ -390,5 +390,5 @@ export const internalAllowedWebDavEndpoints = [
 
 export const PLUGINS = [
   { name: "Midjourney", path: Path.Mj, icon: "🎨" },
-  { name: "Stable Diffusion", path: Path.Sd, icon: "🎨" },
+//  { name: "Stable Diffusion", path: Path.Sd, icon: "🎨" },
 ];
