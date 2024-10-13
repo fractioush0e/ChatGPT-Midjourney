@@ -49,7 +49,7 @@ const DEFAULT_ACCESS_STATE = {
   accessCode: "",
   useCustomConfig: false,
 
-  provider: ServiceProvider.Server3,
+  provider: ServiceProvider.OpenAI,
 
   // openai
   openaiUrl: DEFAULT_OPENAI_URL,
