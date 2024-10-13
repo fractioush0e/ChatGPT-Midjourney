@@ -98,9 +98,9 @@ export const REQUEST_TIMEOUT_MS = 60000;
 export const EXPORT_MESSAGE_CLASS_NAME = "export-markdown";
 
 export enum ServiceProvider {
-  OpenAI = "OpenAI",
+  OpenAI = "Online",
   Azure = "Azure",
-  Google = "Google",
+  Google = "Online",
   Anthropic = "Anthropic",
   Baidu = "Baidu",
   ByteDance = "ByteDance",
