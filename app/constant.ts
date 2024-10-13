@@ -262,6 +262,12 @@ const googleModels = [
   "gemini-1.5-pro-latest",
   "gemini-1.5-flash-latest",
   "gemini-pro-vision",
+  "gemini-1.5-pro-002",
+  "gemini-1.5-flash-002",
+  "gemini-1.5-flash-8b",
+  "gemma-2-2b-it",
+  "gemma-2-9b-it",
+  "gemma-2-27b-it",
 ];
 
 const anthropicModels = [
