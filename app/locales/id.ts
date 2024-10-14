@@ -5,7 +5,7 @@ const id: PartialLocaleType = {
   WIP: "Coming Soon...",
   Error: {
     Unauthorized:
-      "Akses tidak diizinkan, silakan masukkan kode akses atau masukkan kunci API OpenAI Anda. di halaman [autentikasi](/#/auth) atau di halaman [Pengaturan](/#/settings).",
+      "Akses ditolak, harap masukan kode akses anda [disini](/#/auth), atau beli terlebih dulu [disini](https://www.facebook.com/zebzebzebzab/).",
   },
   Auth: {
     Title: "Diperlukan Kode Akses",
