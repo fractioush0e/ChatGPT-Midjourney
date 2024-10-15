@@ -208,7 +208,7 @@ export function Artifacts() {
         <a href={FB_URL} target="_blank" rel="noopener noreferrer">
           <IconButton bordered icon={<GithubIcon />} shadow />
         </a>
-        <div className={styles["artifacts-title"]}>NextChat Artifacts</div>
+        <div className={styles["artifacts-title"]}>ChadGPT Artifacts</div>
         <ArtifactsShareButton
           id={id}
           getCode={() => code}
